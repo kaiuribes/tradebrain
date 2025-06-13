@@ -1,0 +1,6 @@
+requests
+pandas
+llama-cpp-python
+alpaca-trade-api
+streamlit
+snscrape

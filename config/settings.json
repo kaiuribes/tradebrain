@@ -1,0 +1,5 @@
+{
+  "alpaca_api_key": "YOUR_KEY",
+  "alpaca_secret": "YOUR_SECRET",
+  "model": "mistral"
+}
