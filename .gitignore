@@ -363,3 +363,4 @@ MigrationBackup/
 FodyWeavers.xsdmodels/mistral-7b-openorca.q4_k_m.gguf
 models/finbert/
 models/finbert/pytorch_model.bin
+models/finbert/pytorch_model.bin
