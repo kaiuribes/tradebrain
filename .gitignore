@@ -360,4 +360,4 @@ MigrationBackup/
 .ionide/
 
 # Fody - auto-generated XML schema
-FodyWeavers.xsd
+FodyWeavers.xsdmodels/mistral-7b-openorca.q4_k_m.gguf
